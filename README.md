@@ -1,4 +1,4 @@
-# SISTEM 2020 - Civica Machine Learning Workshop.
+# SISTEM 2020 - Civica - Image Classification with Machine Learning Workshop.
 
 Repository containing the template notebook and resources for our Machine Learning Workshop at SISTEM 2020.
 
